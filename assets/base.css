@@ -2741,3 +2741,7 @@ details-disclosure > details {
   border-left: none;
   border-right: none;
 }
+
+.isolate {
+  isolation: isolate;
+}
